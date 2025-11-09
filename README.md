@@ -165,7 +165,5 @@ Feel free to reach out if you want to discuss:
   
 **⭐️ From [medboukechouch](https://github.com/medboukechouch) with 💙**
 
-![Visitor Count](https://profile-counter.glitch.me/medboukechouch/count.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=medboukechouch&color=blueviolet&style=for-the-badge)
 
 </div>
