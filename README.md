@@ -83,15 +83,14 @@ me.philosophy()
 ### 🎓 Formation
 
 ```
-2024 – en cours   M1 MISC (Ingénierie des Systèmes Complexes)
+2025 – en cours   M1 MISC (Ingénierie des Systèmes Complexes)
                   EILCO · Université du Littoral Côte d'Opale · Calais, France
 
-2022 – 2024       Licence IDDL (Ingénierie des Données & Développement Logiciel)
+2024 – 2025       Licence IDDL (Ingénierie des Données & Développement Logiciel)
                   FSTH · Université Abdelmalek Essaadi · Al Hoceima, Maroc
-                  Moyenne finale : 16.83/20 · Major de promotion
 
-2020 – 2022       DEUST MIP (Mathématiques, Informatique, Physique)
-                  FSTH · Al Hoceima · 12.61/20
+2022 – 2024       DEUST MIP (Mathématiques, Informatique, Physique)
+                  FSTH · Al Hoceima 
 
 2022              Baccalauréat Sciences Physiques · Option française · Mention Bien
 ```
