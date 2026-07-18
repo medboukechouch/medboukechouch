@@ -3,7 +3,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Boukechouch&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff)](https://github.com/medboukechouch)
 
 ### AI Engineer — Systèmes Agentiques & RAG
-#### M2 Cybersécurité & Sciences des Données · Université Paris 8 · Île-de-France 🇫🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-boukechouch)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://medboukechouch.github.io/)
@@ -25,7 +24,7 @@ class AIEngineer:
         self.focus      = ["Agentic AI", "RAG", "LangGraph", "FastAPI", "MCP", "LLM Integration"]
         self.approach   = "Construire plutôt que lire — systèmes production-ready, TDD, CI/CD"
         self.languages  = ["Arabe (natif)", "Français (courant)", "Anglais (courant)"]
-        self.status     = "Recherche active d'alternance · sept. 2026 · 3j entreprise / 2j école"
+        self.status     = "Recherche active d'alternance · sept. 2026 · "
 
     def philosophy(self):
         print("Un système livré en production apprend ce que la salle de classe ne peut pas.")
