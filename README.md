@@ -81,10 +81,8 @@ me.philosophy()
 ### 🎓 Formation
 
 ```
-sept. 2026 – 2027   M2 Cybersécurité & Sciences des Données (alternance · 3j/2j)
-                    Université Paris 8 · via CFA numiA · Île-de-France
 
-2025 – 2026         M1 Ingénierie des Systèmes Complexes (MISC)
+2025 – 2027         Master Ingénierie des Systèmes Complexes (MISC)
                     EILCO · Université du Littoral Côte d'Opale · Calais, France
 
 2022 – 2025         Licence IDDL — Ingénierie des Données & Développement Logiciel · Mention Bien
@@ -125,7 +123,7 @@ Juil. – Sept. 2024   Stagiaire AI Engineer & Data · ONCF, Rabat
 - 🤖 Construction de systèmes agentiques production-ready : LangGraph, RAG, MCP, FastAPI
 - 📚 M2 Cybersécurité & Sciences des Données — Université Paris 8 · rentrée sept. 2026
 - 🔭 En veille active : architectures LLM multi-agents, évaluation RAG, observabilité LLM
-- 💼 **Recherche active d'alternance** · sept. 2026 · 3j entreprise / 2j école · Île-de-France
+- 💼 **Recherche active d'alternance** · sept. 2026 ·
 
 ---
 
