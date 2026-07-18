@@ -19,7 +19,6 @@ class AIEngineer:
     def __init__(self):
         self.name       = "Mohamed Boukechouch"
         self.role       = "AI Engineer — Systèmes Agentiques & RAG"
-        self.education  = "M2 Cybersécurité & Sciences des Données @ Paris 8 (sept. 2026) | B.Sc. IDDL @ FSTH Al Hoceima"
         self.location   = "Île-de-France 🇫🇷  ·  Origine : Al Hoceima, Maroc 🇲🇦"
         self.focus      = ["Agentic AI", "RAG", "LangGraph", "FastAPI", "MCP", "LLM Integration"]
         self.approach   = "Construire plutôt que lire — systèmes production-ready, TDD, CI/CD"
