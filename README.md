@@ -121,7 +121,6 @@ Juil. – Sept. 2024   Stagiaire AI Engineer & Data · ONCF, Rabat
 ### 🎯 En ce moment
 
 - 🤖 Construction de systèmes agentiques production-ready : LangGraph, RAG, MCP, FastAPI
-- 📚 M2 Cybersécurité & Sciences des Données — Université Paris 8 · rentrée sept. 2026
 - 🔭 En veille active : architectures LLM multi-agents, évaluation RAG, observabilité LLM
 - 💼 **Recherche active d'alternance** · sept. 2026 ·
 
